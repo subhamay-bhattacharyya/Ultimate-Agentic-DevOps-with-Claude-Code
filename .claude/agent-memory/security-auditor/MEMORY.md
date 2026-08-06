@@ -1,0 +1,2 @@
+- [Terraform baseline for this repo](terraform_baseline_s3_cloudfront.md) — recurring config pattern & recurring gaps in terraform/ (S3+CloudFront static site)
+- [Project context](project_portfolio_site.md) — what this infra is for and its risk profile
